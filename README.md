@@ -6,7 +6,7 @@ Built with:
 - State management solution - [RecoilJS](https://recoiljs.org/)
 - CSS library - [TailwindCSS](https://tailwindcss.com/)
 
-# dockerization of todo-app
+# dockerization of usecaretaker todo app
 
 1. Wrote a dockerfile for the webapplication
 2. Built the docker image
